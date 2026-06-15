@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-sonrisa-en-la-distancia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu sonrisa en la distancia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-en-la-distancia/) |
+| **Get License** | [Commercial Licensing for Tu sonrisa en la distancia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-en-la-distancia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa sonrisa en la distancia me tiene envuelto
+> Buscando tu mirada en medio de este concierto
+> Nena, tú tienes el estilo que me deja suelto
+> Esta noche en Barcelona nuestro amor ha vuelto
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
