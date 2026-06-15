@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-sonrisa-en-la-distancia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tu sonrisa en la distancia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-en-la-distancia/) |
+| **Get License** | [Get a Licensing Quote for Tu sonrisa en la distancia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-en-la-distancia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3d28e90b82db63ff42237588b2c99165cf1c710e2ee41d5fa2ba0b14ec06b038` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

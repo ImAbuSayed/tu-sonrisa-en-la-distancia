@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu sonrisa en la distancia
+
+This log tracks the cryptographic history and versioning for the song **Tu sonrisa en la distancia** (tu-sonrisa-en-la-distancia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:15:45.775327 | `v1` | `3d28e90b82db63ff42237588b2c99165cf1c710e2ee41d5fa2ba0b14ec06b038` | `df60dc907447447e3cb0ef60500b5bc4480e33035e6f104fc1f193ffcebec86c` | `2026-06-15_tu-sonrisa-en-la-distancia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
